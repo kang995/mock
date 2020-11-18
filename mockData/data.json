@@ -1,0 +1,55 @@
+{
+  "status": "0",
+  "msg": "ok",
+  "data": {
+    "result": [
+      {
+        "goodsId": 280,
+        "shopId": 85,
+        "shopName": "济南奔驰有限公司",
+        "goodsNo": "20200714143037418",
+        "goodsName": "美国G-force C14电动车自行车小型迷你14寸代步便携折叠电瓶车成人代驾48V锂电池助力单车 黑色-四重减震-汽车电池-约60公里",
+        "price": 1699.0,
+        "store": 9999,
+        "isMarket": 0,
+        "goodsOrder": 100,
+        "unit": "台",
+        "catId": 1458,
+        "catName": "电动自行车",
+        "goodsImgPcUrl": "http://rtyx-bosstest.oss-cn-shanghai.aliyuncs.com/202007/1594708501629_5.jpg",
+        "goodsImgAppUrl": "http://rtyx-bosstest.oss-cn-shanghai.aliyuncs.com/202007/1594708505734_5.jpg",
+        "limited": 0,
+        "isWeigui": 0,
+        "isValid": 0,
+        "createTime": "2020-07-14 14:30:37",
+        "updateTime": "2020-07-14 14:30:37",
+        "intro": "<p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px;\"><a href=\"https://pro.jd.com/mall/active/RLTmwftSzybjGMQjfVbXWi8P3Ua/index.html\" style=\"margin: 0px; padding: 0px; color: rgb(102, 102, 102); text-decoration-line: none;\"><img src=\"https://img30.360buyimg.com/popWaterMark/jfs/t1/143557/14/2483/421534/5f067db2E08c79e80/1ead79c55bc48c70.png\"/></a></p><p style=\"margin-top: 0px; margin-bottom: 0px; padding: 0px; text-align: center;\"><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/149355/17/1721/575303/5efb05bfEece2d031/0546e2be4cf0fe93.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/134101/24/3295/658710/5efb05beE91d01393/9730fd9008ce7e60.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/100203/17/19526/448281/5e9ffde4Ee98fe6fc/fed8fbdad41d3ede.jpg\"/><img class=\"\" src=\"http://img30.360buyimg.com/popWaterMark/jfs/t1/100807/14/13633/146281/5e5f45a5Ef81062f5/9bde89ce1be04b53.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/128737/5/4131/286263/5eda1684E7cf61616/3526df0ff486555c.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/99270/8/13421/571150/5e59cc41E794e927a/2b997d791791f869.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/94044/37/10967/372194/5e241cc2E0a9e4d09/1cf72185587017bc.jpg\"/><img class=\"\" src=\"http://img30.360buyimg.com/popWareDetail/jfs/t1/115987/29/3969/108427/5eaae6acE2e1647e2/1c1196383f707b10.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/108191/1/4818/336333/5e241cc2E6fad4786/f2ecffb2e6138e7d.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/120374/36/4161/268530/5eda1684Edac44050/8be752f63a9eb681.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/136579/17/1554/283327/5eda1684E12a20f51/b0933b8a8f48d994.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/101259/36/10982/325786/5e241cc3Ef24d6d9d/5f7315f2c8a523c1.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/86169/7/11025/539294/5e241cc3E5cf3c55b/bffaa3e23674b07f.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/95869/36/10810/557237/5e241cc3Ee06b8fa8/6b4c8bdec1c7bf13.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/87073/10/10932/270823/5e241cc4E952e9511/04c929c381f5d743.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/126058/18/4548/212396/5ee0acd1Ef11744c2/be1c142744a0c815.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/113562/17/5048/191947/5eb13510E257a384f/f277732ede9417b5.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/100152/4/10905/363322/5e241d03E51bfadd0/73e8711379cbbdc8.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/123835/16/4221/375280/5eda1685Ea7c4339d/939ca21b81f9094f.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/111026/26/9451/209219/5eda1684E3c005489/11e4d57f90fd9a2c.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/101640/30/10923/249837/5e241d03E8171b083/e917bbfe1d5deffb.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/118131/4/9450/208401/5eda1684E5fc674a4/96d77369b019ac16.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/145101/36/6/296683/5eda1685Ebea10a75/abd7aa6adfafa920.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/113449/35/11651/208840/5f041393Ea5ceb345/6096cb81ea087de0.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/129820/30/1577/185884/5eda1685E65979bd2/c29ff95038ebcef3.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/117724/10/9490/176185/5eda1685Efe71820a/d163f99585473f8f.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/137044/4/1558/204807/5eda1685Ef14753e0/7ebe7d5df006d18b.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/89192/1/11043/291819/5e241d05E54edc118/d23015fb2113b76b.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/107640/6/4715/184989/5e241d05E8716f9c8/20259290d1e22907.jpg\"/><img class=\"\" src=\"https://img10.360buyimg.com/imgzone/jfs/t1/115943/3/9794/450471/5ee0acd2E7276a8b7/71819b129fb137c0.jpg\"/><img class=\"\" src=\"http://img30.360buyimg.com/popWaterMark/jfs/t1/97003/12/2976/7155/5dd8cd48E50934f68/a6c45b67a0d790e2.jpg\"/></p><p><br/></p>",
+        "goodsDesc": "美国G-force C14电动车自行车小型迷你14寸代步便携折叠电瓶车成人代驾48V锂电池助力单车 "
+      },
+      {
+        "goodsId": 264,
+        "shopId": 85,
+        "shopName": "济南奔驰有限公司",
+        "goodsNo": "20200622160156126",
+        "goodsName": "搞笑贴纸",
+        "price": 99.99,
+        "store": 9995,
+        "isMarket": 1,
+        "goodsOrder": 100,
+        "unit": "平方米",
+        "catId": 1882,
+        "catName": "文化、印刷用纸",
+        "goodsImgPcUrl": "http://rtyx-bosstest.oss-cn-shanghai.aliyuncs.com/202006/1592812941411_mobile_gallery.jpg",
+        "goodsImgAppUrl": "http://rtyx-bosstest.oss-cn-shanghai.aliyuncs.com/202006/1592812944378_download.jpg",
+        "limited": 0,
+        "isWeigui": 0,
+        "isValid": 0,
+        "createTime": "2020-06-22 16:01:56",
+        "updateTime": "2020-06-22 16:01:56",
+        "intro": "<p>超级划算，618聚划算。</p><p><br/></p>",
+        "goodsDesc": "封面选的好，点击少不了"
+      }
+    ],
+    "total": 7
+  }
+}

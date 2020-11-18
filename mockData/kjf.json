@@ -1,0 +1,14 @@
+{
+    "status": "0",
+    "msg": "ok",
+    "data": {
+      "result": [
+        {
+          "name":"大帅哥",
+          "sex":"女",
+          "age":"18"
+        }
+      ],
+      "total": 7
+    }
+  }
